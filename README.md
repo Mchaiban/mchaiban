@@ -1,12 +1,18 @@
-**Hi 👋, I’m Mariana**
-Hospitality → Full-Stack Developer · Open to Junior Frontend/Full-Stack roles
 
-- ✅ Completed **Full-Stack Software Development Certification (4Geeks Academy)**  
-- 🛠️ I build with **React + Flask**, **JWT auth**, **REST APIs**, **SQLAlchemy**, React Router, Context/Reducer  
-- 🏨 Background with **OPERA/OnQ/Infor**
-- 💬 Ask me about protected routes, global state, and API integrations  
-- 📫 Reach me: <marianachaiban@gmail.com>
-- 🎵 Fun fact: Singer & Dog Mom🐕
+<h1 align="center">Hi 👋, I'm Mariana</h1>
+<p align="center"><i>Hospitality → Full-Stack Developer · Open to Junior Frontend/Full-Stack roles</i></p>
 
-**Connect with me**
-<https://www.linkedin.com/in/marianachaiban>
+> ✅ Completed <b>Full-Stack Software Development Certification (4Geeks Academy)</b>  
+> 🛠️ I build with <b>React + Flask</b>, <b>JWT auth</b>, <b>REST APIs</b>, <b>SQLAlchemy</b>, React Router, Context/Reducer  
+> 🏨 Background with <b>OPERA/OnQ/Infor</b>
+> 💬 Ask me about protected routes, global state, and API integrations  
+> 📫 Reach me: <a href="mailto:marianachaiban@gmail.com">marianachaiban@gmail.com</a>  
+> 🎵 Fun fact: Singer & Dog Mom 🐕
+
+**Connect with me:**
+
+<p>
+  <a href="https://www.linkedin.com/in/marianachaiban">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
