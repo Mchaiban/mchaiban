@@ -1,4 +1,4 @@
-**Hi 👋, I’m Mariana**  
+                       **Hi 👋, I’m Mariana**  
 Hospitality → Full-Stack Developer · Open to Junior Frontend/Full-Stack roles
 
 - ✅ Completed **Full-Stack Software Development Certification (4Geeks Academy)**  
@@ -7,3 +7,6 @@ Hospitality → Full-Stack Developer · Open to Junior Frontend/Full-Stack roles
 - 💬 Ask me about protected routes, global state, and API integrations  
 - 📫 Reach me: <marianachaiban@gmail.com>
 - 🎵 Fun fact: Singer & Dog Mom🐕
+
+**Connect with me**
+<https://www.linkedin.com/in/marianachaiban>
