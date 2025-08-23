@@ -4,7 +4,7 @@
 
 > ✅ Completed <b>Full-Stack Software Development Certification (4Geeks Academy)</b>  
 > 🛠️ I build with <b>React + Flask</b>, <b>JWT auth</b>, <b>REST APIs</b>, <b>SQLAlchemy</b>, React Router, Context/Reducer  
-> 🏨 Background with <b>OPERA/OnQ/Infor</b>
+> 🏨 Background with <b>OPERA/OnQ/Infor</b> 
 > 💬 Ask me about protected routes, global state, and API integrations  
 > 📫 Reach me: <a href="mailto:marianachaiban@gmail.com">marianachaiban@gmail.com</a>  
 > 🎵 Fun fact: Singer & Dog Mom 🐕
