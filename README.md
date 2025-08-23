@@ -1,4 +1,4 @@
-                       **Hi 👋, I’m Mariana**  
+**Hi 👋, I’m Mariana**
 Hospitality → Full-Stack Developer · Open to Junior Frontend/Full-Stack roles
 
 - ✅ Completed **Full-Stack Software Development Certification (4Geeks Academy)**  
