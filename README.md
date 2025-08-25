@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img width="1584" height="396" alt="Software Developer" src="https://github.com/user-attachments/assets/f3a13bd7-ced1-49ac-9d64-6f2c38e7f0bc">
+</p>
+
 <h1 align="center">Hi 👋, I'm Mariana</h1>
 <p align="center"><i>Hospitality → Full-Stack Developer · Open to Junior Frontend/Full-Stack roles</i></p>
 
@@ -15,4 +19,3 @@
   <a href="https://www.linkedin.com/in/marianachaiban">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
